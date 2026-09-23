@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Saurav 👋
 
-<!--
-**sporel/sporel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Engineer with 8+ years building production-grade data pipelines and cloud data-warehouse infrastructure, and hands-on experience shipping LLM/agent-powered applications end-to-end.
 
-Here are some ideas to get you started:
+- Currently building data pipelines and LLM/agent applications (RAG, MCP) at Cognizant
+- Data engineering: Apache Spark, PySpark, SQL, Databricks Lakehouse (Bronze/Silver/Gold), Delta Lake, Kafka, Hive
+- Cloud: AWS (EMR, Glue, Lambda, S3, Athena), Azure (Databricks, ADLS, Data Factory), GCP (BigQuery, Vertex AI, Pub/Sub)
+- AI/LLM: LangChain, Hugging Face, RAG pipelines, vector databases, and MCP (Model Context Protocol) for connecting agents to enterprise data sources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Certifications
+- Databricks Certified Data Engineer Professional
+- Databricks Certified Generative AI Engineer Associate
+- Databricks Certified Generative AI Fundamentals
+- Databricks edX Verified Certificate: Large Language Models - Application through Production
+- Google Cloud Certified Professional Data Engineer
+- Google Cloud Certified Generative AI Leader
+
+#### Education
+- MS in Information Technology, Campbellsville University
+- MS in Mechanical Engineering, Lamar University
